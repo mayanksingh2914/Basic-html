@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 /* From Uiverse.io by ammarsaa */ 
 .body {
     display: flex;
@@ -145,7 +145,7 @@
       opacity: 0;
     }
   }
-=======
+
 body {
     font-family: Arial, sans-serif;
     background-color: #f4f4f4;
@@ -203,4 +203,3 @@ a {
 a:hover {
     text-decoration: underline;
 }
->>>>>>> e55431b89c33afc9cbf0925ba34558653325fed5
